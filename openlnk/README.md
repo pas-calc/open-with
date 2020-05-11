@@ -1,0 +1,3 @@
+parses a Windows *.URL internet link file so that it will be opened using your web browser
+
+Microsoft's .url file starting with [InternetShortcut], URL=...
